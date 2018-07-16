@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!--<cache-path name="name" path="path" /> 对应getCacheDir()。-->
+    <!--<external-cache-path name="my_images" path="/customVideo/"/>-->
+    <external-path path="temp" name="path1" />
+    <root-path path="" name="camera_photos" />
+    <!--<external-files-path name="apk" path="com.sinosig.phapp/" /> 对应getExternalFilesDir()。-->
+    <!--<external-cache-path name="name" path="path" /> 对应getExternalCacheDir()-->
+</paths>
